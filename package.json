@@ -8,7 +8,7 @@
     "@cypress/code-coverage": "^3.9.9",
     "@cypress/instrument-cra": "^1.4.0",
     "@cypress/react": "^5.8.0",
-    "@cypress/webpack-dev-server": "^1.4.0",
+    "@cypress/webpack-dev-server": "^1.5.0",
     "@material-ui/core": "^4.12.2",
     "@material-ui/lab": "^4.0.0-alpha.60",
     "@sentry/browser": "^6.8.0",
