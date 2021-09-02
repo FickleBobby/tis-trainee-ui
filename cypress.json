@@ -11,5 +11,6 @@
     "testFiles": "**/*cy-test.{js,jsx,ts,tsx}",
     "supportFile": false
   },
-  "includeShadowDom": true
+  "includeShadowDom": true,
+  "testFiles": "**/footer*"
 }
