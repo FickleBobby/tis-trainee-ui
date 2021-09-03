@@ -26,9 +26,7 @@
 // cypress/support/index.js
 
 Cypress.Commands.add("confirmCookie", () => {
-  if (cy.get("button#rcc-confirm-button")) {
-    cy.get("button#rcc-confirm-button").click();
-  }
+      cy.get("button#rcc-confirm-button").click();
 });
 
 Cypress.Commands.add("signIn", () => {

@@ -12,6 +12,6 @@
     "supportFile": false
   },
   "includeShadowDom": true,
-  "testFiles": "**/footer*"
+  "testFiles": ["**/footer*","**/navbar*","**/support*"]
   
 }
